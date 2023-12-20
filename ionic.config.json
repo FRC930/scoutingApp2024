@@ -1,0 +1,8 @@
+{
+  "name": "Scouting App 2023-2024",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "9bae3601"
+}
